@@ -28,7 +28,3 @@ Michael is going to buy the meal today!
 [https://stackoverflow.com/questions/1712227/how-do-i-get-the-number-of-elements-in-a-list](https://stackoverflow.com/questions/1712227/how-do-i-get-the-number-of-elements-in-a-list)
 
 2. Remember that Lists start at index 0!
-
-# Solution
-
-[https://repl.it/@appbrewery/day-4-2-solution](https://repl.it/@appbrewery/day-4-2-solution)
